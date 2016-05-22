@@ -1,0 +1,20 @@
+.movie-name {
+	letter-spacing: 20px;
+}
+
+.box {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 50px;
+	display: inline-block;
+	text-align: center;
+	margin: 10px;
+	vertical-align: top;	
+	width: 200px;
+	height: 200px;
+}
+
+.box .box-title {
+	font-style: italic;
+	vertical-align: bottom;
+}
